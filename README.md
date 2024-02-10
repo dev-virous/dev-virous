@@ -22,10 +22,22 @@ I love watching movies in my spare time, My favorite individuals are me, me, and
   <a href="https://www.mongodb.com">
     <img src="https://skillicons.dev/icons?i=mongodb" />
   </a>
+  <a href="https://www.docker.com">
+    <img src="https://skillicons.dev/icons?i=docker" />
+  </a>
   <a href="https://heroku.com">
     <img src="https://skillicons.dev/icons?i=heroku" />
   </a>
-  <a href="https://www.docker.com">
-    <img src="https://skillicons.dev/icons?i=docker" />
+  <a href="https://regexr.com/">
+    <img src="https://skillicons.dev/icons?i=regex" />
+  </a>
+  <a href="https://flask.palletsprojects.com/en">
+    <img src="https://skillicons.dev/icons?i=flask" />
+  </a>
+  <a href="https://www.selenium.dev/">
+    <img src="https://skillicons.dev/icons?i=selenium" />
+  </a>
+  <a href="https://wordpress.com">
+    <img src="https://skillicons.dev/icons?i=wordpress" />
   </a>
 </p>
