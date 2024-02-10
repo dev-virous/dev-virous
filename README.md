@@ -22,6 +22,9 @@ I love watching movies in my spare time, My favorite individuals are me, me, and
   <a href="https://www.mongodb.com">
     <img src="https://skillicons.dev/icons?i=mongodb" />
   </a>
+  <a href="https://heroku.com">
+    <img src="https://skillicons.dev/icons?i=heroku" />
+  </a>
   <a href="https://www.docker.com">
     <img src="https://skillicons.dev/icons?i=docker" />
   </a>
