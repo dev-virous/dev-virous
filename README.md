@@ -40,4 +40,10 @@ I love watching movies in my spare time, My favorite individuals are me, me, and
   <a href="https://wordpress.com">
     <img src="https://skillicons.dev/icons?i=wordpress" />
   </a>
+  <a href="https://docs.maspero.live/">
+    <img src="https://skillicons.dev/icons?i=html" />
+  </a>
+  <a href="https://docs.maspero.live/">
+    <img src="https://skillicons.dev/icons?i=css" />
+  </a>
 </p>
