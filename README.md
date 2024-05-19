@@ -55,7 +55,4 @@ I love watching movies in my spare time, My favorite individuals are me, me, and
   <a href="/">
     <img src="https://skillicons.dev/icons?i=pycharm" />
   </a>
-  <a href="/">
-    <img src="https://skillicons.dev/icons?i=ai" />
-  </a>
 </p>
