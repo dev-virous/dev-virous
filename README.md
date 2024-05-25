@@ -35,6 +35,9 @@ I'm a passionate developer with a rich background in various programming languag
   <a href="https://huggingface.co">
     <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="Hugging Face" style="width: 50px; height: 50px;" />
   </a>
+  <a href="https://pytorch.org">
+    <img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch" />
+  </a>
   <a href="https://fastapi.tiangolo.com">
     <img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI" />
   </a>
