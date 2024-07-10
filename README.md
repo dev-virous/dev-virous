@@ -78,4 +78,4 @@ I started my programming journey with PHP and quickly fell in love with coding. 
 
 ---
 
-Thank you for visiting my profile!
+We Do Art Bitch ( Yeah )
