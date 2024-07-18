@@ -79,3 +79,7 @@ I started my programming journey with PHP and quickly fell in love with coding. 
 ---
 
 We Do Art Bitch ( Yeah )
+
+---
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-virous&show_icons=true&theme=radical&hide=prs,contribs,issues)
